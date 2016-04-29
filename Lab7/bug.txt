@@ -1,0 +1,5 @@
+Bug 1: m_size is not initialized to 0, instead it is 1
+Bug 2: addBack changes the node value to 0
+Bug 3: removeFront removes the back node
+Bug 4: size() returns false for every case
+
